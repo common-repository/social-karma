@@ -1,0 +1,14 @@
+.social_karma_links a {width:16px;height:16px;display:inline-block;text-indent:-9999px;overflow:hidden;}
+.social_karma_links a.social_blog {background: url(images/social_blog.png) 0 0 no-repeat;}
+.social_karma_links a.social_facebook {background: url(images/social_facebook.png) 0 0 no-repeat;}
+.social_karma_links a.social_twitter {background: url(images/social_twitter.png) 0 0 no-repeat;}
+.social_karma_links a.social_flickr {background: url(images/social_flickr.png) 0 0 no-repeat;}
+.social_karma_links a.social_linkedin {background: url(images/social_linkedin.png) 0 0 no-repeat;}
+.social_karma_links a.social_lastfm {background: url(images/social_lastfm.png) 0 0 no-repeat;}
+.social_karma_links a.social_aboutme {background: url(images/social_aboutme.png) 0 0 no-repeat;}
+.social_karma_links a.social_youtube {background: url(images/social_youtube.png) 0 0 no-repeat;}
+.social_karma_links a.social_vimeo {background: url(images/social_vimeo.png) 0 0 no-repeat;}
+.social_karma_links a.social_digg {background: url(images/social_digg.png) 0 0 no-repeat;}
+.social_karma_links a.social_posterous {background: url(images/social_posterous.png) 0 0 no-repeat;}
+.social_karma_links a.social_tumblr {background: url(images/social_tumblr.png) 0 0 no-repeat;}
+.social_karma_links a.social_dribbble {background: url(images/social_dribbble.png) 0 0 no-repeat;}
